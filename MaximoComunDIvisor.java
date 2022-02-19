@@ -26,8 +26,6 @@ public class MaximoComunDIvisor {
         return numero1;
     }
 
-
-
     public static void main(String[] args) {
 
         //System.out.println(mcdIterativo(27,15));
